@@ -1,0 +1,21 @@
+nav {
+    background-color: #bd1808;
+    height: 60px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+  }
+  
+  .navbarImg {
+    margin-left: 20px;
+    width: 150px;
+  }
+  
+.TextLogo {
+  font-family: 'Orbitron', sans-serif;
+  font-size: 32px;
+  font-weight: 1000;
+  margin: 0 20px;
+  color: #222;
+}

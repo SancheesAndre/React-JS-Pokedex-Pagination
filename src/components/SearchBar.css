@@ -1,0 +1,30 @@
+.SearchBarContainer {
+    display: flex;
+    width: 400px;
+    margin: 10px auto;
+    padding: 0 20px;
+    align-items: center;
+}
+
+.SearchBar input {
+    width: 300px;
+    height: 38px;
+    border-radius: 6px;
+    text-align: center;
+}
+
+.SearchBar {
+    margin-right: 0px;
+}
+
+.SearchBarBtnContainer {
+    margin: 5px auto;
+}
+
+.SearchBarBtn {
+    border: 2px solid black;
+    background-color: #bd1808;
+    padding: 10px 10px;
+    margin: 0 10px;
+    border-radius: 6px;
+}
